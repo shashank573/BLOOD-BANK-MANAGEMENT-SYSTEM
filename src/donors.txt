@@ -1,0 +1,4 @@
+shashank,20,moradabad,8957037953,AB+,70,20
+swarnim,21,balabgad,9243729422,O-,78,20
+sunaina,23,mora musktakam,8328757832,O+,75,19
+shiva ,24,kanth road , civil lines , moradabad,7495620445,A+,78,19

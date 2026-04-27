@@ -1,0 +1,2 @@
+ishu,20,dehradun,893740473,AB+,RBC,1
+manali,20,dehradun,986382243,O-,RBC,1
